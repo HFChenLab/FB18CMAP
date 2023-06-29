@@ -5,7 +5,7 @@ Phosphorylation Modification Force Field FB18CMAP Improving Conformation Samplin
 
 ## Prepare FB18 topology files
 
-* The force field parameters of AMBER-FB18 are given in the 2021 JPCB paper available here: [[[https://doi.org/10.1021/acs.jpcb.1c10971](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c07547)](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c07547)](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c07547)
+* The force field parameters of AMBER-FB18 are given in the 2021 JPCB paper available here: https://pubs.acs.org/doi/10.1021/acs.jpcb.1c07547((http://www.cnblogs.com/sxdcgaq8080/p/7894828.html))
 
 * A sample file is available at `sample/SEP.top`
 
